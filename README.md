@@ -1,7 +1,7 @@
 # 📄 Yulianna Yoon – Hardware Engineer
 
 📧 yulianna.yoon@gmail.com | 📱 +49 176 8736 1746  
-🌐 [LinkedIn](https://linkedin.com/in/your-link) | 💻 [GitHub](https://github.com/your-username)  
+🌐 [LinkedIn](https://linkedin.com/in/your-link) | 💻 [GitHub](https://github.com/YuliannaYoon)  
 
 ---
 
