@@ -1,6 +1,6 @@
 # 📄 Yulianna Yoon – Hardware Engineer
 
-📧 yulianna.yoon@gmail.com | 📱 +49   
+📧 yulianna.yoon@gmail.com | 📱 +49 Add me on LinkedIn :D  
 🌐 [LinkedIn](https://linkedin.com/in/yulianna-yoon-xmars369369) | 💻 [GitHub](https://github.com/YuliannaYoon)  
 
 ---
