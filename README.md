@@ -14,7 +14,7 @@ Relocated to Germany (valid work visa) to expand expertise in international proj
 ## 🛠️ Core Skills
 - **Hardware Design:** PCB, Mixed Signal, Power Supply, Embedded Systems (ARM, RTOS, UART, I2C, SPI)  
 - **Tools:** Altium Designer, Pads, OrCAD, AutoCAD, CAM350  
-- **Programming:** C, C++, Python, JavaScript  
+- **Programming:** C, C++, Python, Java  
 - **Analysis & Testing:** Oscilloscope, Logic Analyzer, Power Supply Tester  
 - **Other:** Project Management, Cross-functional Collaboration  
 
