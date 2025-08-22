@@ -87,7 +87,7 @@ Relocated to Germany (valid work visa) to expand expertise in international proj
 ---
 
 ## 📜 Certificates
-- [Insert Relevant Certificates]  
+- [comming soon]  
 
 ---
 
