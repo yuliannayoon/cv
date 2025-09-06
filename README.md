@@ -6,8 +6,8 @@
 ---
 
 ## 🌍 Professional Summary
-Hardware Engineer with 20 years of experience in **analog/digital circuit design, PCB layout, FPGA, and embedded systems**. Specialized in **bio IoT devices, power management, and EMI/EMC optimization** from concept to mass production.  
-Relocated to Germany (valid work visa) to expand expertise in international projects and contribute to innovative hardware solutions.  
+Hardware engineer specializing in system-level design, from amplifying biosignals to developing wearable medical IoT devices. Skilled in compact, high-density PCB design with a strong focus on low-power architectures, signal integrity, and power integrity. Currently expanding expertise in embedded firmware to build full-stack engineering capabilities. Believes robust hardware design is the foundation for efficient firmware development, enabling faster debugging and streamlined product development.
+
 
 ---
 
