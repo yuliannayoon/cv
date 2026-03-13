@@ -95,7 +95,7 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 This CV summarizes my key experience.  
 For detailed project reports, circuit designs, and documentation, please visit my GitHub repositories:
 
-- [OBELAB Projects](https://github.com/your-username/Obelab-Projects)  
+- [OBELAB Projects](https://github.com/yuliannayoon/Obelab-Projects)  
 - [Philosys Projects](https://github.com/your-username/Philosys-Projects)  
 - [FPGA Prototyping](https://github.com/your-username/FPGA-Prototyping)  
 - [PCB Optimization](https://github.com/your-username/PCB-Optimization)  
