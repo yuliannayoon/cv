@@ -16,7 +16,7 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 - **EDA Tools:** Proficient in end-to-end electronics design from schematic capture to PCB layout (Altium Designer,EasyEDA)
 - **C Programming:** Analize firmware code for debugging and Development enviroment setting up(Cortex M3 porting and configura GPIO function)
 - **Consider Radiation for the
-- **Select component and planning parts supply
+- **Select Component and planning parts supply
 
 ---
 
