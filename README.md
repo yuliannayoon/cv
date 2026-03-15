@@ -42,35 +42,7 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 
 ---
 
-### Hardware Development Engineer | HDXWILL (Korea)  
-*2012 – 2014*  
-- PCB design and modification for MCU chipset & medical IT products (Dentri, Dentio).  
 
----
-
-### Embedded System Engineer | Brain Net (Korea)  
-*2014*  
-- Designed embedded system for base station monitoring (8-bit RISC MCU).  
-
----
-
-### Hardware Development Engineer | Biosensor (Korea)  
-*2015*  
-- Developed electrochemical sensor boards and conducted pre-production testing.  
-
----
-
-### Development Assistant | Mammoth Technology (Korea)  
-*2005 – 2011*  
-- PCB design & component management for turnkey product development (clients: Hyundai Mobis, TI).  
-
----
-
-### Research Assistant | Pentamicro (Korea)  
-*2004 – 2005*  
-- Assisted in semiconductor research (video compression chip demo boards, validation tests).  
-
----
 
 ## 🎓 Education
 - B.Sc. in Electrical, Electronic, Information & Communication Engineering  
