@@ -29,7 +29,7 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 - Migrated WiFi SoC to Renesas DA16200MOD module; collaborated with firmware team for QA integration.  
 - Improved **EMI(RE) performance** by optimizing PCB layout (without ferrite core).  
 - Developed test procedures and wafer package documentation for production.  
-- 🔗 [Detailed Project Portfolio](https://github.com/yuliannayoon/Obelab-Projects)  
+- 🔗 [Detailed Project Portfolio](https://github.com/yuliannayoon/obelab)  
 
 ---
 
