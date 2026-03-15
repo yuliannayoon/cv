@@ -1,4 +1,4 @@
-# 📄 Yulianna Yoon – Hardware Engineer
+# 📄 Yulianna Yoon – Embedded Hardware System Design Engineer
 
 📧 yulianna.yoon@gmail.com | 📱 +49 Add me on LinkedIn :D  
 🌐 [LinkedIn](https://linkedin.com/in/yulianna-yoon-xmars1010) | 💻 [GitHub](https://github.com/YuliannaYoon)  
@@ -6,29 +6,26 @@
 ---
 
 ## 🌍 Professional Summary
-Hardware engineer specializing in system-level design, from amplifying biosignals to developing wearable medical IoT devices. Skilled in compact, high-density PCB design with a strong focus on low-power architectures, signal integrity, and power integrity. Currently expanding expertise in embedded firmware to build full-stack engineering capabilities. Believes robust hardware design is the foundation for efficient firmware development, enabling faster debugging and streamlined product development.
+Hardware engineer specializing in system-level design, from amplifying biosignals to developing wearable IoT devices. Skilled in compact, high-density PCB design with a strong focus on low-power architectures, signal integrity, and power integrity. Currently expanding expertise in embedded firmware to build full-stack engineering capabilities. Believes robust hardware design is the foundation for efficient firmware development, enabling faster debugging and streamlined product development.
 
 
 ---
 
 ## 🛠️ Core Skills
-- **Hardware Design:** PCB, Mixed Signal, Power Supply, Embedded Systems (ARM, RTOS, UART, I2C, SPI)  
-- **Tools:** Altium Designer, Pads, OrCAD, AutoCAD, CAM350  
-- **Programming:** C, C++, Python, Java  
-- **Analysis & Testing:** Oscilloscope, Logic Analyzer, Power Supply Tester  
-- **Other:** Project Management, Cross-functional Collaboration  
+- **Hardware Design:** Analog and Digital Mixed Signal Design 
+- **EDA Tools:** Proficient in end-to-end electronics design from schematic capture to PCB layout (Altium Designer,EasyEDA)
+- **C Programming:** Analize firmware code for debugging and Development enviroment setting up(Cortex M3 porting and configura GPIO function)
+- **consider Radiation for the
+- **select component and planning parts supply
 
 ---
 
 ## 💼 Professional Experience
 
 ### Senior Hardware Development Engineer | OBELAB (Korea)  
-*2019 – 2024*  
+
 - Led circuit design for **wearable bio IoT devices** from concept to mass production.  
-- Delivered MP 2K series to manufacturing in 2021 and 2023.  
-- Migrated WiFi SoC to Renesas DA16200MOD module; collaborated with firmware team for QA integration.  
-- Improved **EMI(RE) performance** by optimizing PCB layout (without ferrite core).  
-- Developed test procedures and wafer package documentation for production.  
+
 - 🔗 [Detailed Project Portfolio](https://github.com/yuliannayoon/obelab)  
 
 ---
