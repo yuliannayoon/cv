@@ -39,7 +39,16 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 
 ---
 
-## 💼 Professional Experience
+### Quick Project Hightlighted  
+
+- Designed and developed the optical sensing system using a light source and photodiode to detect very small signals, amplified them to measure muscle oxygen saturation, and successfully transferred the product to mass production  
+- Improved and optimized the performance of a device for measuring cerebral oxygen saturation.
+- Implemented design modifications and transferred a battery-free medical IoT device to mass production.
+
+
+
+
+## 💼 title of project(    )
 
 ### Senior Hardware Development Engineer | OBELAB (Korea)  
 
@@ -61,23 +70,6 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 
 ---
 
-
-
-## 🎓 Education
-- B.Sc. in Electrical, Electronic, Information & Communication Engineering  
-  Hanyang Cyber University, Seoul, Korea (2014 – 2019)  
-
----
-
-## 🌐 Languages
-- Korean (Native)  
-- English (Fluent)  
-- German (Intermediate – B1)  
-
----
-
-## 📜 Certificates
-- [comming soon]  
 
 ---
 
