@@ -58,21 +58,5 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 
 - 🔗 [Detailed Project Portfolio](https://github.com/yuliannayoon/obelab)  
 
----
-
-### Hardware Development Engineer | Philosys (Korea)  
-*2016 – 2019*  
-- Redesigned USB3.0 Bio IoT products for USB-C & Lightning connectors; scaled production to 10,000+ units.  
-- Designed Nordic BLE SoC boards (6-layer high-density, antenna & impedance matching).  
-- Improved biosensor measurement accuracy via thermistor integration.  
-- Provided technical seminars and field support for in-vitro diagnostic devices.  
-- 🔗 [GitHub Project Details](https://github.com/your-username/Philosys-Projects)  
-
----
 
 
----
-
-
-
----
