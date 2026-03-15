@@ -24,7 +24,9 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 
 ### Senior Hardware Development Engineer | OBELAB (Korea)  
 
-- Led circuit design for **wearable bio IoT devices** from concept to mass production.  
+- Implemented and optimized a wireless charging circuit, including component selection and system tuning.
+- Improved Wi-Fi radiation performance through structural design optimization and Wi-Fi module migration to secure throughput margin.
+- Designed EMI/EMC-aware PCB layout and layer stack-up to enhance signal integrity and reduce electromagnetic interference. 
 
 - 🔗 [Detailed Project Portfolio](https://github.com/yuliannayoon/obelab)  
 
