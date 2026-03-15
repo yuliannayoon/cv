@@ -12,11 +12,30 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 ---
 
 ## 🛠️ Core Skills
-- **Hardware Design:** Analog and Digital Mixed Signal Design 
-- **EDA Tools:** Proficient in end-to-end electronics design from schematic capture to PCB layout (Altium Designer,EasyEDA)
-- **C Programming:** Analize firmware code for debugging and Development enviroment setting up(Cortex M3 porting and configura GPIO function)
-- **Consider Radiation for the
-- **Select Component and planning parts supply
+
+### Tools
+- PCB Design: Altium Designer, EasyEDA, Pads, OrCAD, Online Design Tools  
+- Test & Measurement: Oscilloscope, Logic Analyzer, Signal Generator, Power Supply Tester
+
+### Hardware Design
+- Circuit Design & PCB Layout  
+- Prototype Development & Bring-up  
+- BOM & Component Selection  
+- Layer Stack-up Planning & Optimization  
+- EMI/EMC Consideration, SI/PI Optimization  
+- Wi-Fi & BLE Design Integration  
+- Power Management Design  
+- Certificate Compliance (e.g., CE, FCC)
+
+### Software & Embedded
+- MCU Development Environment Setup & Porting  
+- GPIO Configuration & Peripheral Interface Integration  
+- Embedded Firmware Debugging Support
+
+### Mass Production & Manufacturing
+- DFM (Design for Manufacturing) Optimization  
+- Build and Planning of Test Jigs  
+- Production Documentation & Quality Assurance
 
 ---
 
