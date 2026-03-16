@@ -45,7 +45,7 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 - Improved Wi-Fi radiation performance through structural design optimization and Wi-Fi module migration to secure throughput margin.
 - Designed EMI/EMC-aware PCB layout and layer stack-up to enhance signal integrity and reduce electromagnetic interference. 
 
-- 🔗 [Detailed Project Portfolio](https://github.com/yuliannayoon/obelab)  
+- 🔗 [Dive into Project Portfolio](https://github.com/yuliannayoon/obelab)  
 
 
 
