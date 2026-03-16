@@ -6,7 +6,7 @@
 ---
 
 ## 🌍 Professional Summary
-Hardware engineer specializing in system-level design, from amplifying biosignals to developing wearable IoT devices. Skilled in compact, high-density PCB design with a strong focus on low-power architectures, signal integrity, and power integrity. Currently expanding expertise in embedded firmware to build full-stack engineering capabilities. Believes robust hardware design is the foundation for efficient firmware development, enabling faster debugging and streamlined product development.
+Hardware engineer specializing in system-level design, from amplifying biosignals to developing wearable IoT devices. Skilled in compact, high-density PCB design with a strong focus on low-power architectures, signal integrity, and power integrity. Believes robust hardware design is the foundation for efficient firmware development, enabling faster debugging and streamlined product development.
 
 
 ---
