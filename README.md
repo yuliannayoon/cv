@@ -42,8 +42,9 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 ### Overview 
 
 - Implemented and optimized a wireless charging circuit, including component selection and system tuning.
-- Improved Wi-Fi radiation performance through structural design optimization and Wi-Fi module migration to secure throughput margin.
-- Designed EMI/EMC-aware PCB layout and layer stack-up to enhance signal integrity and reduce electromagnetic interference. 
+- Optimized Signal Integrity (SI) by redesigning the PCB stack-up and isolating RF interference to eliminate signal instability in fNIRS sensor module
+  
+   
 
 - 🔗 [Dive into Project Portfolio](https://github.com/yuliannayoon/obelab)  
 
