@@ -15,7 +15,7 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 
 ### Tools
 - Circuit, PCB Design: Altium Designer, EasyEDA, Pads, OrCAD
-- Test & Measurement: Oscilloscope, Signal Generator, Power Supply Tester
+- Test & Measurement: Oscilloscope, Signal Generator, Power Supply Tester, Multiemeter
 
 ### Hardware Design
 - Circuit Design & PCB Layout  
