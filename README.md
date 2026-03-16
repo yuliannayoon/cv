@@ -41,16 +41,14 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 
 ### Quick Project Hightlighted  
 
-- Designed and developed the optical sensing system using a light source and photodiode to detect very small signals, amplified them to measure muscle oxygen saturation, and successfully transferred the product to mass production  
+- Designed and developed an optical sensing system using a light source and photodiode to detect very small signals, amplify them, and measure muscle oxygen saturation; successfully transferred the product to mass production.
 - Improved and optimized the performance of a device for measuring cerebral oxygen saturation.
 - Implemented design modifications and transferred a battery-free medical IoT device to mass production.
+- Optimized power and interface circuits for smart medical devices powered through audio jack, USB Lightning, and USB Type-C.
 
 
 
-
-## 💼 title of project(    )
-
-### Senior Hardware Development Engineer | OBELAB (Korea)  
+### Overview 
 
 - Implemented and optimized a wireless charging circuit, including component selection and system tuning.
 - Improved Wi-Fi radiation performance through structural design optimization and Wi-Fi module migration to secure throughput margin.
