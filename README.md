@@ -39,7 +39,6 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 
 ---
 
-
 ### Overview 
 
 - Implemented and optimized a wireless charging circuit, including component selection and system tuning.
