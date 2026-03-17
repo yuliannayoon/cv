@@ -39,17 +39,6 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 
 ---
 
-### Overview 
-
-- Implemented and optimized a wireless charging circuit, including component selection and system tuning.
-- Optimized Signal Integrity (SI) by redesigning the PCB stack-up and isolating RF interference to eliminate signal instability in fNIRS sensor module
-  
-   
-
-- 🔗 [Dive into Project Portfolio](https://github.com/yuliannayoon/obelab)
-
-  ---
-
 ## 🚀 Project Highlight
 **Full-stack Hardware Development: From Concept to Mass Production**
 * **Power Innovation:** Implemented a robust **Wireless Charging** solution and optimized power delivery for extended battery life.
