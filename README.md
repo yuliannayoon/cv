@@ -46,7 +46,17 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
   
    
 
-- 🔗 [Dive into Project Portfolio](https://github.com/yuliannayoon/obelab)  
+- 🔗 [Dive into Project Portfolio](https://github.com/yuliannayoon/obelab)
+
+  ---
+
+## 🚀 Project Highlight
+**Full-stack Hardware Development: From Concept to Mass Production**
+* **Power Innovation:** Implemented a robust **Wireless Charging** solution and optimized power delivery for extended battery life.
+* **Signal Integrity:** Eliminated sensor instability by redesigning the **PCB stack-up** and isolating RF interference, ensuring high-fidelity data acquisition.
+* **Production Ready:** Spearheaded the transition from prototype to global market launch (Kickstarter/Indiegogo) by securing EMI/EMC compliance.
+
+> 🔗 [**Explore Technical Deep-Dive**](https://github.com/yuliannayoon/obelab)
 
 
 
