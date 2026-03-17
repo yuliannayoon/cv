@@ -1,7 +1,7 @@
 # 📄 Yulianna Yoon – Embedded Hardware System Design Engineer
 
 📧 yulianna.yoon@gmail.com | 📱 +49 Add me on LinkedIn :D  
-🌐 [LinkedIn](https://linkedin.com/in/yulianna-yoon-xmars1010) | 💻 [GitHub](https://github.com/YuliannaYoon)  
+🌐 [LinkedIn](https://linkedin.com/in/yulianna-yoon-xmars1010) | 💻 [GitHub](https://github.com/YuliannaYoon) | 📥 [**Download CV (PDF)**](https://github.com/yuliannayoon/assets/raw/main/Yulianna_Yoon_CV.pdf)
 
 ---
 
