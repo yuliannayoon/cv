@@ -39,7 +39,7 @@ Hardware engineer specializing in system-level design, from amplifying biosignal
 
 ---
 
-## 🚀 Project Highlight
+## 🐙 Project Highlight
 **Full-stack Hardware Development: From Concept to Mass Production**
 * **Power Innovation:** Implemented a robust **Wireless Charging** solution and optimized power delivery for extended battery life.
 * **Signal Integrity:** Eliminated sensor instability by redesigning the **PCB stack-up** and isolating RF interference, ensuring high-fidelity data acquisition.
